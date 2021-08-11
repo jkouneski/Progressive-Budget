@@ -5,7 +5,7 @@ PWA Budget tracking app that allows user to add and subtract funds as transactio
 
 ## Demo
 
-[Link to application](https://dashboard.heroku.com/apps/limitless-garden-70855/)
+[Link to application](https://limitless-garden-70855.herokuapp.com/)
 
 
 
